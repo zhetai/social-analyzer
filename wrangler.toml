@@ -7,5 +7,5 @@ bucket = "./public"
 entry-point = "."
 
 [build]
-command = "npm run build"
+command = "echo \"No build step required for this project\""
 watch_dir = "./public"
